@@ -3,7 +3,7 @@ This page is continuously updated to maintain the resources related to applicati
 
 
 | Sources  | Data Type | Descriptions | Links |
-| --------  | --------------- |:-------------------------|:--------------- |
+|:--------  |:--------------- |:-------------------------|:--------------- |
 | Johns Hopkins University [Ref1] | Web-based mapping global cases |  A dashboard illustrates the location and number of confirmed COVID-19 cases, deaths and recoveries for all affected countries in real time, started from January 22, 2020 until now. These data can be downloaded in the CSV format and can be used to analyse and predict the virus spread. |[Link](https://systems.jhu.edu/research/public-health/ncov/)| 
 | C. R. Wells’s GitHub [Ref2] | Daily number of cases in China | The data were recorded from mainland China only, from December 8, 2019 to February 15, 2020, available in MATLAB format. They can be used to evaluate the impact of international travel and border control measures on the global spread of COVID-19. |[Link](https://github.com/WellsRC/Coronavirus-2019)             |
 |DataHub	| Time series data on cases	|These data are sourced from the Johns Hopkins University source, but they have been cleaned and normalized, e.g., tidying dates and consolidating several files into normalized time series. The data consist of confirmed cases, reported deaths, and reported recoveries. They are updated daily and can be downloaded in CSV format.| [Link](https://datahub.io/core/covid-19) |
