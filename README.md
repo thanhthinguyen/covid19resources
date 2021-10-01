@@ -1,5 +1,5 @@
 # COVID-19 Resources
-This page is continuously updated to maintain the resources related to applications of AI for COVID-19.
+This page is continuously updated to maintain the resources related to applications of AI for COVID-19. The data are for research purposes and researchers using these data need to acknowlege the original sources using information provided in the associated links.
 
 
 | Sources  | Data Type | Descriptions | Links |
