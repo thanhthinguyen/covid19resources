@@ -1,3 +1,4 @@
+Data Source: https://github.com/thepanacealab/covid19_twitter
 ## Latest Updates:
 
 10/27/21 Daily data (under the /dailies/ folder) has been added for 10/26, 10/25, and 10/247, note that some tweets will bleed into the following day due to different timezones captured.
